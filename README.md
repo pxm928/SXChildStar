@@ -1,5 +1,5 @@
 # SXChildStar
-绍兴少儿图书馆-星球版 https://pxm928.github.io/SXChildStar
+绍兴少儿图书馆-星球版 https://pxm928.github.io/SXChildStar/Index.html
 
 
 我的个人主页 https://pxm928.github.io/HomePage
